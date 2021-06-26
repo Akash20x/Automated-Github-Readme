@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron:  '0 0,12 * * *'  # Twice daily at midnight and noon
+    - cron:  '5 * * * *'  # Twice daily at midnight and noon
 
 jobs:
   build:
