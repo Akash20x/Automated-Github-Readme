@@ -6,7 +6,7 @@
 
 ### Projects
 <!-- Projects start -->
-- [Basics of the Python](/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-/tree/master/Basics%20of%20the%20Python)
+- [Basics of the Python](/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-/tree/master/Basics%20of%20the%20Python) |   It analyzes the meteorological weather data of last 10yrs from 2006 to 2016 at Finland to check an increase of global warming.   |
 
 - [Bitcoin Price Predictor](/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-/tree/master/Bitcoin%20Price%20Predictor)
 
