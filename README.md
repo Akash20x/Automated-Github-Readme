@@ -4,19 +4,18 @@
 <tr>
 <td valign="top" width="50%">
 
-### Recent Blog Posts
+### Projects
 <!-- Blog entries start -->
 - [Building Production Grade Microservices (Part 1): Design Patterns](https://www.fosdick.io/2021/03/04/building-production-grade-microservices-part-1.html) (2021-03-04)
 
 - [Anomaly Detection in the Service Mesh](https://www.fosdick.io/2018/04/17/anomaly-detection-in-the-service-mesh.html) (2018-04-17)
 <!-- Blog entries end -->
-View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 </td>
 
 <td valign="top" width="50%">
 
-### Recent TILs
+### Descriptions
 <!-- TILs start -->
 - [Web3.js Notes](https://github.com/fosdickio/til/blob/main/ethereum/web3.js-notes.md) (2021-06-18)
 
@@ -28,7 +27,6 @@ View more blog posts on [fosdick.io](https://www.fosdick.io/).
 
 - [Replication](https://github.com/fosdickio/til/blob/main/distributed-computing/07-replication.md) (2021-02-18)
 <!-- TILs end -->
-View more TILs in [the TIL repository](https://github.com/fosdickio/til).
 
 </td>
 </tr>
