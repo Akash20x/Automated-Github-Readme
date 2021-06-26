@@ -6,7 +6,7 @@ import requests
 
 
 ROOT_PATH = pathlib.Path(__file__).parent.resolve()
-FEED_URL = 'https://github.com/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-'
+FEED_URL = 'https://github.com/Akash20x/Automated-Github-Readme'
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
