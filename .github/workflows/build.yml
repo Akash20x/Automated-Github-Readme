@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - master
   workflow_dispatch:
   schedule:
     - cron:  '0 0,12 * * *'  # Twice daily at midnight and noon
