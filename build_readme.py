@@ -28,7 +28,7 @@ def Exract_files_names():
 	for i in li:
 		for x in i.findAll('a',class_="js-navigation-open Link--primary"):
 			if(x.text!=".github" and x.text!="CODE_OF_CONDUCT.md" 
-				and x.text!="CONTRIBUTING_GUIDELINES.md" and 
+				and x.text!="CONTRIBUTING_GUIDELINES.md" and x.text!=".github/workflows" and x.text!="build_readme.py" and and x.text!="requirements.txt"
 				x.text!="README.md" and x.text!="download statistics.jpg" 
 				and x.text!="img" and x.text!="ml img.jpg"):
 
