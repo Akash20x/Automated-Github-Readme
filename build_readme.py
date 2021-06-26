@@ -46,7 +46,7 @@ if __name__ == "__main__":
     file_names = Exract_files_names()
     file_md="\n\n".join(["- {}".format(i) for i in file_names])
 
-    readme_contents = replace_chunk(readme_contents, "TILs", file_md)
+    readme_contents = replace_chunk(readme_contents, "Projects", file_md)
     readme.open("w").write(readme_contents)
 
 
