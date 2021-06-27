@@ -33,4 +33,5 @@ want list of the external contents of repo.
 
 <!-- Projects end -->
 ```
-
+5. Wait for minute so that github actions start its work
+or click on Actions to view status. 
