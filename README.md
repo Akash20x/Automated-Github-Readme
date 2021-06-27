@@ -10,7 +10,7 @@ in your README.md file.
 
 - [start this folder](start%20this%20folder)
 
-- [Steps to use this github action.txt](Steps%20to%20use%20this%20github%20action.txt)
+- [Steps to use this github action.md](Steps%20to%20use%20this%20github%20action.md)
 <!-- Projects end -->
 
 
