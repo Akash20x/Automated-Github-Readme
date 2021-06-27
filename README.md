@@ -3,8 +3,6 @@
 * Extract all external folders and files names and their links and display it 
 in your README.md file. 
 
-* I also showing it below. 
-
 ## Content List
 
 <!-- Projects start -->
