@@ -1,6 +1,6 @@
 # Automated-Github-Readme
  
-* Extract all external folders and files names and their links and display it 
+* Extract all external folders and files names and their links of a github repository and display it 
 in your README.md file. 
 
 # Steps to use this:
