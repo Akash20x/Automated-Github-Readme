@@ -3,6 +3,9 @@
 * Extract all external folders and files names and their links of the repo and display it 
 in your README.md file. 
 
+* It is automated in the way, when you add new file 
+or folder in your repo it automatically adds in your README.md file. 
+
 ## Content List
 
 <!-- Projects start -->
