@@ -9,6 +9,7 @@ or folder in your repo it automatically adds in your README.md file.
 <!-- Projects start -->
 | Content List | 
  | --------------- | 
+| [Basics of Power Bi](Basics%20of%20Power%20Bi) |
 | [Basics of the Python](Basics%20of%20the%20Python) |
 | [Bitcoin Price Predictor](Bitcoin%20Price%20Predictor) |
 | [COVID_19-DATA-ANALYSIS](COVID_19-DATA-ANALYSIS) |
