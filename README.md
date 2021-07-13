@@ -9,6 +9,7 @@ or folder in your repo it automatically adds in your README.md file.
 <!-- Projects start -->
 | Content List | 
  | --------------- | 
+| [Audio Classification](Audio%20Classification) |
 | [Basics of ML and DL](Basics%20of%20ML%20and%20DL) |
 | [Basics of Power Bi](Basics%20of%20Power%20Bi) |
 | [Basics of the Python](Basics%20of%20the%20Python) |
@@ -42,6 +43,8 @@ or folder in your repo it automatically adds in your README.md file.
 | [Ola Bike Ride Request Demand Forecast](Ola%20Bike%20Ride%20Request%20Demand%20Forecast) |
 | [Optical character recognition (OCR)](Optical%20character%20recognition%20(OCR)) |
 | [Plant Seedlings Classification](Plant%20Seedlings%20Classification) |
+| [Random forest from scratch](Random%20forest%20from%20scratch) |
+| [Random forest test](Random%20forest%20test) |
 | [Sentiment analysis for depression based on social media posts](Sentiment%20analysis%20for%20depression%20based%20on%20social%20media%20posts) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
@@ -63,6 +66,7 @@ or folder in your repo it automatically adds in your README.md file.
 | [Various_Plots_in_Matplotlib.ipynb](Various_Plots_in_Matplotlib.ipynb) |
 | [Visualization  with Seaborn & Matplotlib.ipynb](Visualization%20%20with%20Seaborn%20%26%20Matplotlib.ipynb) |
 | [buyer_s_time234.ipynb](buyer_s_time234.ipynb) |
+| [random_forest.py](random_forest.py) |
 <!-- Projects end -->
 
 
