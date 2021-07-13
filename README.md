@@ -34,6 +34,7 @@ or folder in your repo it automatically adds in your README.md file.
 | [Handwritten Equation Solver using CNN](Handwritten%20Equation%20Solver%20using%20CNN) |
 | [Heart_Predection](Heart_Predection) |
 | [Medical Charges for Smokers and Non-smoker](Medical%20Charges%20for%20Smokers%20and%20Non-smoker) |
+| [Medical_Help_Chatbot](Medical_Help_Chatbot) |
 | [Meteorite Landing Data Analysis](Meteorite%20Landing%20Data%20Analysis) |
 | [Movie-Recommendation-System](Movie-Recommendation-System) |
 | [NumPy - Basics](NumPy%20-%20Basics) |
@@ -49,6 +50,7 @@ or folder in your repo it automatically adds in your README.md file.
 | [Various Plots using Matplot,Seaborn,Pandas](Various%20Plots%20using%20Matplot%2CSeaborn%2CPandas) |
 | [Weather Prediction](Weather%20Prediction) |
 | [XgBoost_Algorithm](XgBoost_Algorithm) |
+| [ensemble-methods-notebooks-master](ensemble-methods-notebooks-master) |
 | [heart failure](heart%20failure) |
 | [recommendation_system](recommendation_system) |
 | [Beautiful Soup.ipynb](Beautiful%20Soup.ipynb) |
