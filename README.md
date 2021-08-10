@@ -11,6 +11,7 @@ or folder in your repo it automatically adds in your README.md file.
  | --------------- | 
 | [Advanced Visualizations](Advanced%20Visualizations) |
 | [Audio Classification](Audio%20Classification) |
+| [Automatic Summarization of Scientific Papers](Automatic%20Summarization%20of%20Scientific%20Papers) |
 | [Basics of ML and DL](Basics%20of%20ML%20and%20DL) |
 | [Basics of Power Bi](Basics%20of%20Power%20Bi) |
 | [Basics of the Python](Basics%20of%20the%20Python) |
@@ -31,6 +32,7 @@ or folder in your repo it automatically adds in your README.md file.
 | [Emotion Recognition Based on NLP](Emotion%20Recognition%20Based%20on%20NLP) |
 | [Ensemble Methds in ML](Ensemble%20Methds%20in%20ML) |
 | [Explaination and Example for P value with code](Explaination%20and%20Example%20for%20P%20value%20with%20code) |
+| [Exploratory-data-analysis](Exploratory-data-analysis) |
 | [Extract_Text_from_PDF_using_Python](Extract_Text_from_PDF_using_Python) |
 | [File of SQL Commands](File%20of%20SQL%20Commands) |
 | [Flight_delay_prediction_project](Flight_delay_prediction_project) |
@@ -49,11 +51,13 @@ or folder in your repo it automatically adds in your README.md file.
 | [Random forest from scratch](Random%20forest%20from%20scratch) |
 | [Random forest test](Random%20forest%20test) |
 | [Sentiment analysis for depression based on social media posts](Sentiment%20analysis%20for%20depression%20based%20on%20social%20media%20posts) |
+| [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
 | [Time-Series LSTM Model](Time-Series%20LSTM%20Model) |
 | [Unique Chatbot](Unique%20Chatbot) |
 | [Various Plots using Matplot,Seaborn,Pandas](Various%20Plots%20using%20Matplot%2CSeaborn%2CPandas) |
+| [Vehicles and Pedestrian Detection](Vehicles%20and%20Pedestrian%20Detection) |
 | [Weather Prediction](Weather%20Prediction) |
 | [Web-Scraping-with-Beautiful-Soup-master](Web-Scraping-with-Beautiful-Soup-master) |
 | [XgBoost_Algorithm](XgBoost_Algorithm) |
